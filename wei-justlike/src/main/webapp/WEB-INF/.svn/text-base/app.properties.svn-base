@@ -1,0 +1,15 @@
+#========================日期==============================#
+time.all=yyyy-MM-dd HH:mm:ss
+time.mm=yyyy-MM-dd HH:mm
+time.dd=yyyy-MM-dd
+time.w.all=yyyy年MM月dd HH:mm:ss
+time.m=MM月dd号
+#========================验证==============================#
+
+mobile-regexp-message=%2$s格式不正确
+#========================标题==============================#
+
+start.title=首页
+
+
+

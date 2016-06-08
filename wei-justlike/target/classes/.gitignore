@@ -1,0 +1,6 @@
+/application.properties
+/applicationContext.xml
+/log4j.properties
+/spring_config.xml
+/spring_mvc.xml
+/spring_security.xml
